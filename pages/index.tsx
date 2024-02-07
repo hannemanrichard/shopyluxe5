@@ -524,7 +524,7 @@ export default function Home() {
             </div>
 
             <div className="z-10">
-              <div className="bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-1 rounded-2xl">
+              <div className="bg-gradient-to-tr from-lime-500 via-orange-500  to-amber-500 p-1 rounded-2xl">
                 <div
                   className="bg-[#f5f5f5] rounded-2xl w-full  py-4 px-6 "
                   id="form"
